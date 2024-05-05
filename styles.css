@@ -1,3 +1,10 @@
-h1 {
-  color: red;
-}
+@import "/css/_normalize.css";
+@import "/css/_global.css";
+
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Poppins:wght@400;500;700&display=swap");
+
+/* font-family: "Poppins", sans-serif; */
+/* font-family: "DM Sans", sans-serif; */
+
+/* Components */
