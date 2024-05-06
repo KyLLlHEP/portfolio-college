@@ -3,6 +3,7 @@
   border: 1px solid var(--midnight-blue);
   background-color: var(--charcoal-gray);
   color: var(--white);
+  letter-spacing: normal;
 }
 .nav-row {
   display: flex;
@@ -36,6 +37,10 @@
   color: var(--white);
   text-decoration: none;
   padding-right: 40px;
+  transition: opacity 0.2s ease-in;
+}
+.nav-list__link:hover {
+  opacity: 0.8;
 }
 .nav-list__link--active {
   position: relative;
