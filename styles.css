@@ -14,6 +14,3 @@
 @import "css/components/_navigation.css";
 @import "css/components/_header.css";
 @import "css/components/_project.css";
-h1 {
-  color: red;
-}
