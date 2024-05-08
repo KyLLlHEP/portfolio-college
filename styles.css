@@ -12,3 +12,6 @@
 @import url(css/components/navigation.css);
 @import url(css/components/header.css);
 @import url(css/components/project.css);
+h1 {
+  color: gold;
+}
