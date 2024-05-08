@@ -19,3 +19,6 @@
 @import url(././css/components/_navigation.css);
 @import url(././css/components/_header.css);
 @import url(././css/components/_project.css);
+h1 {
+  color: red;
+}
