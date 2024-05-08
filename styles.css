@@ -2,9 +2,9 @@
 /* @import "css/_normalize.css";
 @import "css/_global.css"; */
 /* @import "css/_varibals.css"; */
-@import url(././css/_varibals.css);
-@import url(./css/_normalize.css);
-@import url(./css/_global.css);
+@import url(css/_varibals.css);
+@import url(css/_normalize.css);
+@import url(css/_global.css);
 /* Fonts */
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Poppins:wght@400;500;700&display=swap");
 
@@ -20,5 +20,5 @@
 @import url(././css/components/_header.css);
 @import url(././css/components/_project.css);
 h1 {
-  color: red;
+  color: green;
 }
