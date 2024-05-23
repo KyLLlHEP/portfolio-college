@@ -31,3 +31,6 @@ body {
   position: relative;
   top: 1px;
 }
+li {
+  list-style-type: none;
+}
