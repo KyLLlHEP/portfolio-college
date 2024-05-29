@@ -7,4 +7,6 @@
   /* Light mode */
   --page-bg: var(--white);
   --text-color: var(--charcoal-gray);
+  --project-card-bg: var(--charcoal-gray);
+  --project-card-text: var(--white);
 }

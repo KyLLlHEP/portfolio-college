@@ -28,6 +28,7 @@ body {
   border: 1px solid #000;
   color: #000;
   text-decoration: none;
+  background-color: var(--white);
 }
 .btn-outline:hover {
   opacity: 0.8;
