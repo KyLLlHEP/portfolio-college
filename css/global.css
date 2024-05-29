@@ -2,7 +2,7 @@ html,
 body {
   font-family: "DM Sans", sans-serif;
   letter-spacing: -0.5px;
-  height: 100%;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   /* Light mode */
@@ -44,6 +44,6 @@ li {
   text-decoration: none;
 }
 .dark {
-  --page-bg: var(--charcoal-gray);
+  --page-bg: #252526;
   --text-color: var(--white);
 }
