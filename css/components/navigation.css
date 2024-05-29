@@ -7,13 +7,14 @@
 }
 .nav-row {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
   column-gap: 40px;
   row-gap: 20px;
   flex-wrap: wrap;
 }
 .logo {
+  margin-right: auto;
   text-decoration: none;
   color: var(--white);
   font-family: "Poppins", sans-serif;

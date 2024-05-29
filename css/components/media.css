@@ -45,4 +45,10 @@
     margin-bottom: 20px;
     font-size: 22px;
   }
+  .nav-row {
+    justify-content: space-between;
+  }
+  .dark-mode-btn {
+    order: 0;
+  }
 }
