@@ -3,4 +3,8 @@
   --white: #fff;
   --midnight-blue: #26292d;
   --sky-blue: #5c62ec;
+
+  /* Light mode */
+  --page-bg: var(--white);
+  --text-color: var(--charcoal-gray);
 }

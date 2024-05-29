@@ -2,10 +2,12 @@ html,
 body {
   font-family: "DM Sans", sans-serif;
   letter-spacing: -0.5px;
-  color: var(--charcoal-gray);
   height: 100%;
   display: flex;
   flex-direction: column;
+  /* Light mode */
+  background-color: var(--page-bg);
+  color: var(--text-color);
 }
 
 .container {
@@ -40,4 +42,8 @@ li {
 .content-list a {
   color: var(--sky-blue);
   text-decoration: none;
+}
+.dark {
+  --page-bg: var(--charcoal-gray);
+  --text-color: var(--white);
 }
